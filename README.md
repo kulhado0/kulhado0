@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, my name is João Mendonça</h1>
 <h3 align="center">A computer science student at PUCMG 😀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulhado0" alt="kulhado0" /></a> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=onestar&username=kulhado0" alt="kulhado0" /></a> </p>
 
 - How to reach me **joao.paulo141@hotmail.com**
 
