@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=onestar&username=kulhado0" alt="kulhado0" /></a> </p>
 
 - Ethical hacking: <a href="https://bugcrowd.com/kulhado0" target="_blank"> **Bugcrowd Profile**</a> <a href="https://hackerone.com/kulhado0" target="_blank">  **Hackerone Profile**</a>
-- How to reach me **joao.paulo141@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
