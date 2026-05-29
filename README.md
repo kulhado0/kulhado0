@@ -2,7 +2,7 @@
 
 I'm a software engineer from Brazil with 9 years of experience turning ideas into real products.
 
-Over the years I've shipped features used by thousands of people, scaled platforms across Latin America, and built SaaS products from scratch — including ones I founded myself. I care deeply about writing software that's maintainable, not just working.
+Over the years I've shipped features used by millions of people, scaled platforms across Latin America, and built SaaS products from scratch — including ones I founded myself. I care deeply about writing software that's maintainable, not just working.
 
 I also genuinely love teaching. I've mentored engineers through production challenges, led internal learning sessions grounded in hands-on constructivist methods, and volunteered as a programming instructor for public high school students. My belief is simple: the best way to learn is to build something real and figure it out as you go.
 
